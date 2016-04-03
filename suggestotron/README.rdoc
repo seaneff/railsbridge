@@ -1,0 +1,6 @@
+== README
+
+This code was initially written on 4/2/16 as part of a RailsBridge Boston workshop.
+Code is based on examples provided by RailsBridge, available online here: http://docs.railsbridgeboston.org/intro-to-rails/
+
+Source: https://github.com/railsbridge-boston/docs
